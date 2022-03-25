@@ -21,7 +21,7 @@ dataset.
     ```
 2. Download the code.
     ```shell
-    git ...
+    git clone https://github.com/DongshuoYin/garbage_dump_detection.git
     ```
 3. Download dataset in our paper's link. 
 
