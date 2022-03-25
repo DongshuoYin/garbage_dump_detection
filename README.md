@@ -74,7 +74,7 @@ dataset.
 2. Run the following code in container.
     ```shell
     cd tools
-    python Demo.py
+    python demo.py
     ```
 
 ## Batch inference
