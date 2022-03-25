@@ -81,14 +81,14 @@ class TwoStageDetector(BaseDetector):
         """Directly extract features from the backbone+neck."""
         x = self.backbone(img)
         # ---------------for visualization-------------------
-        from tools.feature_visualization import draw_feature_map
-        draw_feature_map(x, name='backbone')
+        # from tools.feature_visualization import draw_feature_map
+        # draw_feature_map(x, name='backbone')
         # ---------------for visualization-------------------
         if self.with_neck:
             x = self.neck(x)
             # ---------------for visualization-------------------
-            from tools.feature_visualization import draw_feature_map
-            draw_feature_map(x, name='neck')
+            # from tools.feature_visualization import draw_feature_map
+            # draw_feature_map(x, name='neck')
             # ---------------for visualization-------------------
         return x
 
