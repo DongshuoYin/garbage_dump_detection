@@ -88,7 +88,7 @@ dataset.
 4. Run the following code in container.
     ```shell
     cd tools
-    python batch_inference.py
+    python inference.py
     ```
 
 5. Check your imference results in `/home/$[YOUR_USERNAME]/garbage_dump/garbage_dump_detection/tools/batch_inference_data/inference_visualization`
