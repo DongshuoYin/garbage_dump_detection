@@ -64,6 +64,7 @@ dataset.
     ```shell
     sudo docker exec -it $[YOUR_CONTAINER_NAME] /bin/bash
     cd /garbage_dump_detection
+    python setup.py develop
     ```
    
 ## Demo
