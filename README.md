@@ -69,7 +69,7 @@ dataset.
    
 ## Demo
 
-1. Download the pre-trained model [here]() and put it in `/home/$[YOUR_USERNAME]/garbage_dump/garbage_dump_detection/checkpoint_backup/`
+1. Download the pre-trained model [here](https://drive.google.com/file/d/1qiR5PJvNehQibV1IhjXzOAA7nJrc4fNP/view?usp=sharing) and put it in `/home/$[YOUR_USERNAME]/garbage_dump/garbage_dump_detection/checkpoint_backup/`
 
 2. Run the following code in container.
     ```shell
