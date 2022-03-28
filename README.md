@@ -79,7 +79,7 @@ dataset.
 
 ## Batch inference
 
-1. Download the pre-trained model [here]() (same as Demo) and put it in `/home/$[YOUR_USERNAME]/garbage_dump/garbage_dump_detection/checkpoint_backup/`.
+1. Download the pre-trained model [here](https://drive.google.com/file/d/1qiR5PJvNehQibV1IhjXzOAA7nJrc4fNP/view?usp=sharing) (same as Demo) and put it in `/home/$[YOUR_USERNAME]/garbage_dump/garbage_dump_detection/checkpoint_backup/`.
 
 2. Resize your images to 1024*1024 pixels.
 
